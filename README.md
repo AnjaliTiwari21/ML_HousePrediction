@@ -6,7 +6,7 @@ This dataset is a csv file which consist of list of houses in Belfast. This proj
 3. <b>Data Cleaning: </b> Data Cleaning is an important aspect of data science projects. It is important to have a relevant dataset which is free of errors and doesn’t contains duplicates. The fatures we use here in this probelm are categorical and numerical. Hence it is not advisable to use the same techniques on the different type of data. Also, get rid of variables which are of no use.
 4. <b>Data Exploration: </b> Data exploration helps in understanding each variable and how are they distirbuted which is done using the different visualisation plots. Many problems that are resolved here are the skewness, outliers, multicollinearity and more.
 5. <b>Feature Engineering: </b> This stage is used for adding new features in the dataset. This step is usually based on hypothesis generation where we actually understand what features should be added.
-6: <b> Model Training: </b>
-7. <b> Model Evaluation and Testing: </b>
+6. <b> Model Training: </b> Here we use machine learning models as per the data and its distribution by using a particular model for a particular problem. Every machine learning algorithm can not be used here because of the data distribution( Normal disstribution, binomial distirubtion, poisson etc)
+7. <b> Model Evaluation and Testing: </b> 
 
 
